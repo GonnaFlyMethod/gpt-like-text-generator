@@ -7,7 +7,7 @@ This project emulates how the real LLMs work. The model predicts the next token,
 * Training a neural network for next-word prediction
 * Generating text in the Shakespeare's style
 
-# Installing
+# Installation
 The project uses poetry as the dependency manager and Jupyter notebook as the development IDE:
 
 ## ⚙️ Setup
