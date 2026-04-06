@@ -29,4 +29,4 @@ python -m ipykernel install --user --name=$(basename "$PWD") --display-name "Poe
 poetry run jupyter notebook
 ```
 
-In Jupyter notebook, please, navigate to Kernel → Change Kernel, then find the newly added kernel and the list. After set up is done, you can run the cells of main.ipynb
+In Jupyter notebook, please, navigate to Kernel → Change Kernel, then find the newly added kernel in the list. After set up is done, you can run the cells of main.ipynb
